@@ -1,4 +1,4 @@
-**Opportunity Evaluation Prompt**
+**Opportunity Evaluation Workflow**
 
 **Purpose**
 
