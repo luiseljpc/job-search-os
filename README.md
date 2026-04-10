@@ -57,6 +57,6 @@ Job Search OS is built on five core principles:
 /architecture   # system architecture and governance documents
 /frameworks     # scoring and decision logic frameworks
 /rules          # governance rules and customization constraints
-/workflows      # orchestration prompts for execution workflows
 /schemas        # structured output contracts
+/workflows      # orchestration prompts for execution workflows
 /examples       # representative system outputs
