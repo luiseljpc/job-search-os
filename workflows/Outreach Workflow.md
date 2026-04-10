@@ -1,4 +1,4 @@
-**Outreach Workflow Prompt**
+**Outreach Workflow**
 
 **Purpose**
 
