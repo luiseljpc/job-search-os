@@ -1,4 +1,4 @@
-**Application Workflow Prompt**
+**Application Workflow**
 
 **Purpose**
 
